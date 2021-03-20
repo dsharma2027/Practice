@@ -1,2 +1,6 @@
 This is Practice Session for DE_M
-New Text Added
+New Text 
+
+Text Deleted
+
+New Line Added
