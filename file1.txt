@@ -4,3 +4,5 @@ New Text
 Text Deleted
 
 New Line Added
+
+Changes for Stash
